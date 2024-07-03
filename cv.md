@@ -40,4 +40,4 @@ a.calc(num1, num2);
 ##*Languages*
 --------------------------
 -Russian - native speaker.
--English - A2 (B1 in process…)
+-English - A2
