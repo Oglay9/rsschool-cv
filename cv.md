@@ -12,10 +12,13 @@ I'm open to communication. I study new things with pleasure. I prefer teamwork.
 ##*Skills*
 --------------------------
 -HTML
--CSS
+-CSS (Emmet Grid FlexBox SASS)
 -JavaScript (Basic)
 -Git
 -Figma
+-UX
+-UI
+-MongoDB
 ##*Code Example*
 --------------------------
 ```javascript
