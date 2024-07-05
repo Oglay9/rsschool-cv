@@ -6,7 +6,7 @@
 -Phone: +7 953 023-29-13
 -Email: oglay9@gmail.com
 -GitHub: Oglay9
-##*About Me*
+##*Summary*
 --------------------------
 I'm open to communication. I study new things with pleasure. I prefer teamwork.
 ##*Skills*
